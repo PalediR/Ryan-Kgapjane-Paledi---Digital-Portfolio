@@ -1,1 +1,1 @@
-# Ryan-Kgapjane-Paledi---Digital-Portfolio
+# Ryan Kgapjane Paledi-Digital Portfolio
