@@ -36,7 +36,7 @@ Confirmation and reflection on the experience of formally submitting my CV.
 ---
 
 ## 📎 Assets
-- [My CV (PDF)](./assets/cv.pdf)
+- [My CV (PDF)](/assets/RYANCV.pdf)
 
 ---
 
@@ -53,6 +53,6 @@ All reflections follow the STAR method:
 ## 🔗 Connect With Me
 
 - [GitHub](#) (https://github.com/mengezingwenya1))  
-- [LinkedIn Profile](#) (www.linkedin.com/in/mengezi-junior-ngwenya-bb1b982b9)
+- [LinkedIn Profile](#) ((https://www.linkedin.com/in/ryan-paledi-6480a5275/))
 
 ---
