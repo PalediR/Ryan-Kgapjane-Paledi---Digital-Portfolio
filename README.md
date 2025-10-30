@@ -52,7 +52,7 @@ All reflections follow the STAR method:
 
 ## 🔗 Connect With Me
 
-- [GitHub](#) (https://github.com/mengezingwenya1))  
+- [GitHub](#) ((https://github.com/PalediR/Ryan-Kgapjane-Paledi---Digital-Portfolio))  
 - [LinkedIn Profile](#) ((https://www.linkedin.com/in/ryan-paledi-6480a5275/))
 
 ---
